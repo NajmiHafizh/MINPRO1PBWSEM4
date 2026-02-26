@@ -58,7 +58,7 @@ Struktur ini digunakan agar halaman dapat ditampilkan dengan baik di berbagai pe
 
 - Pada bagian ini digunakan komponen progress dan progress-bar dari Bootstrap untuk menampilkan skill dalam bentuk visual persentase.
 - Persentase diatur menggunakan properti style="width: 80%" untuk menentukan panjang progress bar sesuai nilai skill.
-- Bagian pengalaman ditampilkan menggunakan list (<ul> dan <li>) agar informasi tersusun dengan jelas dan mudah dibaca.
+- Bagian pengalaman ditampilkan menggunakan list ((ul) dan (li)) agar informasi tersusun dengan jelas dan mudah dibaca.
 
 ## Section certificates
 
