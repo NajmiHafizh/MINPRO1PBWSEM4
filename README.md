@@ -10,21 +10,21 @@
 
 <img width="1895" height="902" alt="image" src="https://github.com/user-attachments/assets/f3185fe3-aecf-4954-a6ec-9e2f97b81c1d" />
 
-- Navbar berada di bagian paling atas halaman dan berfungsi sebagai navigasi utama. Menu yang tersedia terdiri dari Home, About Me, dan Certificates. Navbar dibuat menggunakan komponen Bootstrap agar tampilannya responsif.
+- Navbar berada di bagian paling atas halaman dan berfungsi sebagai navigasi utama. Menu yang tersedia terdiri dari Home, About Me, dan Certificates. Navbar dibuat dengan menggunakan komponen Bootstrap agar tampilannya responsif.
 
-- Section Home merupakan bagian pembuka dari website. Pada bagian ini terdapat perkenalan singkat, deskripsi mengenai minat di bidang Data Science dan Visualisasi Data, serta sebuah tombol yang mengarahkan ke bagian About Me. Selain itu, terdapat juga foto profil yang ditampilkan berdampingan dengan teks menggunakan sistem grid Bootstrap (row dan col-md-6). Penggunaan grid ini membuat tata letak menjadi lebih rapi serta otomatis menyesuaikan ketika d
+- Section Home merupakan bagian pembuka dari website. Pada bagian ini ada perkenalan singkat, deskripsi mengenai minat di bidang Data Science dan Visualisasi Data, serta ada tombol yang mengarahkan ke bagian About Me. Selain itu, terdapat juga foto profil yang ditampilkan berdampingan dengan teks menggunakan sistem grid Bootstrap (row dan col-md-6). Penggunaan grid ini membuat tata letak menjadi lebih rapi serta otomatis menyesuaikan ketika dibuka
 
 ## Tampilan pada section about me
 
 <img width="1893" height="897" alt="image" src="https://github.com/user-attachments/assets/40abf14e-0eba-4b44-bee7-4a6fb5337557" />
 
-Bagian About Me berisi penjelasan lebih lanjut mengenai latar belakang dan minat yang dimiliki. Pada section ini juga ditampilkan daftar skills dalam bentuk progress bar, seperti Pemrograman Python, Data Visualization, dan Data Science. Progress bar dibuat menggunakan komponen Bootstrap agar tampilannya lebih visual dan informatif. Selain itu, terdapat juga bagian pengalaman yang ditampilkan dalam bentuk list untuk memberikan gambaran singkat mengenai pengalaman yang pernah dilakukan.
+Bagian About Me berisi penjelasan lebih lanjut mengenai latar belakang dan minat yang ku miliki. Pada section ini juga menampilkan daftar skills dalam bentuk progress bar, seperti Pemrograman Python, Data Visualization, dan Data Science. Progress bar dibuat menggunakan komponen Bootstrap agar tampilannya lebih visual dan informatif. Selain itu, terdapat juga bagian pengalaman yang ditampilkan dalam bentuk list untuk memberikan gambaran singkat mengenai pengalaman yang pernah dilakukan.
 
 ## Tampilan pada section certificates dan footer
 
 <img width="1897" height="899" alt="image" src="https://github.com/user-attachments/assets/6cf9aad2-e332-47d7-b1f8-d925245ba5d7" />
 
-- Section Certificates menampilkan daftar sertifikat dalam bentuk card. Setiap card berisi gambar sertifikat, judul, serta deskripsi singkat mengenai pelatihan yang telah diikuti. Layout pada bagian ini menggunakan sistem grid Bootstrap (row dan col-md-4) sehingga pada layar besar akan tampil dalam tiga kolom, sedangkan pada layar kecil akan otomatis menyesuaikan menjadi satu kolom agar tetap nyaman dibaca.
+- Section Certificates menampilkan daftar sertifikat dalam bentuk card. Setiap card berisi gambar sertifikat, judul, serta deskripsi singkat mengenai pelatihan yang sudah diikuti. Layout pada bagian ini menggunakan sistem grid Bootstrap (row dan col-md-4) sehingga pada layar besar akan tampil dalam tiga kolom, sedangkan pada layar kecil akan otomatis menyesuaikan menjadi satu kolom agar tetap nyaman dibaca.
 
 - Footer terletak di bagian paling bawah halaman dan berisi informasi hak cipta. Warna footer disesuaikan dengan warna navbar agar tampilan website terlihat konsisten dan seimbang.
 
@@ -32,7 +32,7 @@ Bagian About Me berisi penjelasan lebih lanjut mengenai latar belakang dan minat
 
 ## Struktur HTML
 
-Website ini menggunakan struktur dasar HTML yang lengkap, yaitu (!DOCTYPE html), (html), (head), dan (body).
+Website ini menggunakan struktur dasar HTML yang lumayan lengkap, yaitu (!DOCTYPE html), (html), (head), dan (body).
 
 Pada bagian (head) terdapat:
 - Meta charset untuk mendukung karakter UTF-8
@@ -83,5 +83,9 @@ Beberapa pengaturan yang dilakukan melalui CSS antara lain:
 - Mengatur tampilan footer
   
 Penggunaan CSS ini bertujuan untuk memberikan sentuhan personal pada desain tanpa menghilangkan fungsi utama dari Bootstrap.
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+Dan untuk teknologi yang digunakan dalam mini projek kali ini ialah: HTML,CSS,BOOTSTRAP 5
 
 ---------------------------------------------------------------------------------------------------------------------------------------
